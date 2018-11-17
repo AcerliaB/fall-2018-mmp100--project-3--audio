@@ -13,10 +13,10 @@ For this project, you’ll use Audacity to create a 90-second audio collage that
 5. Edit this `README.md` file by adding a link to your project under the **Link** section and include a description under the **Description** section. Both appear below.
 
 ### Link
-[Link to your project](http://mmp.bmcc.cuny.edu/acerlia.bennett/fall-2018/mmp-100/project-3/)
+[http://mmp.bmcc.cuny.edu/acerlia.bennett/fall-2018/mmp-100/project-3/](http://mmp.bmcc.cuny.edu/acerlia.bennett/fall-2018/mmp-100/project-3/)
 
 ### Description
-Your description goes here.
+This is an audio for babies in order for them to become relaxed and in a good mood. The sounds that are a part of this track have been tested on a 3 month old as she constantly, each and every single day, tries to fight sleep. This track will get her to feel relaxed and fall into a deep sleep without knowing that she fell asleep. This ASMR track is not only for her but for any baby that seems to not want to go to sleep.
 
 ## Rules
 * **Do not** add or remove any files to this repo.
